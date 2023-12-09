@@ -1,6 +1,6 @@
 # DistilKaggle: A Distilled Dataset of Kaggle Jupyter Notebooks
 
-Access the dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10317389.svg)](https://doi.org/10.5281/zenodo.10317389)
+Access the dataset: <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10317389.svg)](https://doi.org/10.5281/zenodo.10317389)
 
 ## Overview
 
