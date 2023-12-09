@@ -1,5 +1,7 @@
 # DistilKaggle: A Distilled Dataset of Kaggle Jupyter Notebooks
 
+Access the dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10317389.svg)](https://doi.org/10.5281/zenodo.10317389)
+
 ## Overview
 
 DistilKaggle is a curated dataset extracted from Kaggle Jupyter notebooks spanning from September 2015 to October 2023. This dataset is a distilled version derived from the download of over 300GB of Kaggle kernels, focusing on essential data for research purposes. The dataset exclusively comprises publicly available Python Jupyter notebooks from Kaggle. The essential information for retrieving the data needed to download the dataset is obtained from the MetaKaggle dataset provided by Kaggle
